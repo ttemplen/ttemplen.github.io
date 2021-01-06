@@ -1,0 +1,5 @@
+header { grid-area: title; }
+nav { grid-area: navigation; }
+aside { grid-area: sidebar; }
+main { grid-area: posts; }
+footer { grid-area: footer; }
