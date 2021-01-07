@@ -3,3 +3,25 @@ nav { grid-area: navigation; }
 aside { grid-area: sidebar; }
 main { grid-area: posts; }
 footer { grid-area: footer; }
+
+.container{
+    display: grid;
+    grid-template-areas:
+    "title title title"
+    "navigation navigation navigation"
+    "posts posts posts"
+    "footer footer footer";
+
+    }
+
+#TT{
+    color: blueviolet;
+    position:absolute;
+    top: 40px;
+    right: 40px;
+}
+
+.TT{
+    border: 4px solid black;
+    position: relative;
+}
