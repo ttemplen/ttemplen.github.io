@@ -18,13 +18,18 @@ footer { grid-area: footer; }
     color: white;
     font-weight: bold;
     position:absolute;
-    top: 105px;
+    top: 100px;
     right: 55px;
 }
 
 .TT-POS{
     position: relative;
 }
+
+.clip-circle{
+    clip-path: circle(70px at center);
+}
+
 body{
     background-color: rgb(16, 15, 15);
     color: darkgrey;
