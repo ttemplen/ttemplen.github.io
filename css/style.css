@@ -19,15 +19,23 @@ footer { grid-area: footer; }
     font-weight: bold;
     position:absolute;
     top: 105px;
-    right: 25px;
+    right: 55px;
 }
 
 .TT-POS{
-    border:3px solid black;
     position: relative;
 }
+body{
+    background-color: rgb(16, 15, 15);
+    color: darkgrey;
+}
+
 header{
     display: flex;
     justify-content:right  ;
     margin-bottom: 3px;
+}
+h1{
+    text-align: center;
+    border-bottom: 2px solid rgb(50, 48, 48);
 }
