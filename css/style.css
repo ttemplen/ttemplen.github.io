@@ -15,13 +15,19 @@ footer { grid-area: footer; }
     }
 
 #TT{
-    color: blueviolet;
+    color: white;
+    font-weight: bold;
     position:absolute;
-    top: 40px;
-    right: 40px;
+    top: 105px;
+    right: 25px;
 }
 
-.TT{
-    border: 4px solid black;
+.TT-POS{
+    border:3px solid black;
     position: relative;
+}
+header{
+    display: flex;
+    justify-content:right  ;
+    margin-bottom: 3px;
 }
