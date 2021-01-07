@@ -34,7 +34,7 @@ header{
     display: flex;
     justify-content:right  ;
     margin-bottom: 3px;
-    background: linear-gradient(to right, #333, #333 50%, #eee 75%, #333 75%);
+    background: linear-gradient(to right, #333, #333 50%, #eee 75%, #333 95%);
 }
 h1{
     text-align: center;
