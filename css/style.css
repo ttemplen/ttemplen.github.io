@@ -32,7 +32,7 @@ body{
 
 header{
     display: flex;
-    justify-content:right  ;
+    justify-content:left  ;
     margin-bottom: 3px;
     background: linear-gradient(to right, #333, #333 50%, #eee 75%, #333 95%);
 }
@@ -53,13 +53,3 @@ h1{
         "footer";
     }
 }
-#TT{
-    color: white;
-    font-weight: bold;
-    position:absolute;
-    top: 105px;
-    right: 55px;
-}
-
-.TT-POS{
-    position: relative;
