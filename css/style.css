@@ -40,3 +40,26 @@ h1{
     text-align: center;
     border-bottom: 2px solid rgb(50, 48, 48);
 }
+
+
+
+
+@media (max-width: 550px) {
+    .container {
+        grid-template-areas: 
+        "title"
+        "navigation"
+        "posts"
+        "footer";
+    }
+}
+#TT{
+    color: white;
+    font-weight: bold;
+    position:absolute;
+    top: 105px;
+    right: 55px;
+}
+
+.TT-POS{
+    position: relative;
