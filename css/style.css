@@ -46,7 +46,7 @@ h1{
     border-bottom: 2px solid rgb(50, 48, 48);
 }
 li{
-    font-size:large;
+    font-size:medium;
     font-weight: bold;
     margin: 10px;
     display: inline;
@@ -64,19 +64,19 @@ nav{
 #contact{
     text-decoration: none;
     color: lightyellow;
-    font-size: medium;
+    
     
 }
 #volunteer{
     text-decoration: none;
     color: lightyellow;
-    font-size: medium;
+    font-size: small ;
     
 }
 #GOW{
     text-decoration: none;
     color: lightyellow;
-    font-size: medium;
+    font-size: small ;
     
 }
 main{
