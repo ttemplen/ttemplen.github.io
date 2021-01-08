@@ -56,31 +56,32 @@ nav{
     text-align: center;
     color: lightgoldenrodyellow;
 }
-#hobbies{
+
+a{
     text-decoration: none;
-    color: lightyellow;
-    
-    
 }
-#contact{
-    text-decoration: none;
+
+a:link{
     color: lightyellow;
-    
-    
-    
 }
-#volunteer{
-    text-decoration: none;
-    color: lightyellow;
-    
-    
+a:visited{
+    color: mistyrose;
 }
+a:hover{
+    color: powderblue;
+}
+
+
+
+
+
 #GOW{
-    text-decoration: none;
-    color: lightyellow;
-    font-size: small ;
     
+    font-size: small ;
 }
+
+    
+
 main{
     font-size: medium ;
 
