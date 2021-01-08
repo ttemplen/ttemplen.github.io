@@ -56,13 +56,32 @@ nav{
     text-align: center;
     color: lightgoldenrodyellow;
 }
-#link{
+#hobbies{
     text-decoration: none;
     color: lightyellow;
     
 }
-a:hover{
-    color: lime;
+#contact{
+    text-decoration: none;
+    color: lightyellow;
+    font-size: medium;
+    
+}
+#volunteer{
+    text-decoration: none;
+    color: lightyellow;
+    font-size: medium;
+    
+}
+#GOW{
+    text-decoration: none;
+    color: lightyellow;
+    font-size: medium;
+    
+}
+main{
+    font-size: medium ;
+
 }
 
 
